@@ -50,11 +50,16 @@ Among the challenges and difficulties I encountered while performing the analysi
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-- 
+
 1. From the Parent Categories, “Theater” is the one with the highest number of events conducted over the period reported in the dataset. This can support future campaigns aimed to identify the interest by category.
 2. “Theater” has 1369 campaigns. According to Launch date vs funding goals, 839 had successful results, 493 failed, and 37 were canceled. 
 3. The best months to successfully promote a Theater campaign are: May (111), June (100) and July (87). 
-4. The failed campaigns follows the trend year along, however the ratio between failedVSsuccesful is bigger on October. The recommendation could be to reschedule the events of October for another time. 
+4. The failed campaigns follows the trend year along, however the ratio between failedVSsuccesful is bigger on October. The recommendation could be to reschedule the events of October for another time.
+
+- What are some other possible tables and/or graphs that we could create?
+My suggestion to have a better analys on the performance of a campaign is to add the Days where the campaign was active to add a table with Outcomes, Percentage funded, Average of Days.  
+
+End
 
 - What can you conclude about the Outcomes based on Goals?
 
@@ -68,3 +73,5 @@ Among the limitations of this dataset we can highlight:
 1. There is no background on how our client sets the time frame to start and close a campaign limiting the understanding and the analysis of Launch date vs Outcomes.  
 2. There is no background on what determines the Outcomes results, we part from successful, failed and canceled but we don't know for sure on what is based. 
 3. Overall we are missing vital information to perform a detailed analysis requested by the client. Client wanted to know how different “Plays” campaigns fared in relation to their launch dates and their funding goals.
+
+End
