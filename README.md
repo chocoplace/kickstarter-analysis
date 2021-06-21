@@ -17,7 +17,7 @@ The analysis started with getting to know the dataset for my project [#Kickstart
 *Technical background: For the analysis of outcomes based on Launch Date, the first step was to create a new column (Year) on the main dataset to be able to filter the information by Launch Date (Date Created Conversation) on a Pivot Table. The second step was to create a Pivot Table under the name Theater Outcomes by Launch Date to better visualize the information of Launch Date, Outcomes by Successful, Failed, Canceled, and Parent Category. The table is filtered by the Parent Category “Theater” because it is the point of interest of our client. As the third step, I created a linear PivotChart to have a visual of the Theater campaigns per outcome and month. 
 
 *Analysis: 
-![Theater_Outcomes_vs_Launch](https://github.com/chocoplace/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.pn)
+![Theater_Outcomes_vs_Launch](https://github.com/chocoplace/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 From the information presented on the Pivot Table: Theater Outcomes by Launch Date we can highlight the following: 
 From the Parent Categories, “Theater” is the one with the highest number of events conducted over the period reported in the dataset. This can support future campaigns aimed to identify the interest by category.
