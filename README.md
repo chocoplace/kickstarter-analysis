@@ -20,17 +20,15 @@ The analysis started with getting to know the dataset for my project [#Kickstart
 ![Theater_Outcomes_vs_Launch](https://github.com/chocoplace/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 From the information presented on the Pivot Table: Theater Outcomes by Launch Date we can highlight the following: 
-From the Parent Categories, “Theater” is the one with the highest number of events conducted over the period reported in the dataset. This can support future campaigns aimed to identify the interest by category.
-“Theater” has 1369 campaigns. According to Launch date vs funding goals, 839 had successful results, 493 failed, and 37 were canceled. 
-The best months to successfully promote a Theater campaign are: May (111), June (100) and July (87). 
-The failed campaigns follows the trend year along, however the ratio between failedVSsuccesful is bigger on October. The recommendation could be to reschedule the events of October for another time. 
+1. From the Parent Categories, “Theater” is the one with the highest number of events conducted over the period reported in the dataset. This can support future campaigns aimed to identify the interest by category.
+2. “Theater” has 1369 campaigns. According to Launch date vs funding goals, 839 had successful results, 493 failed, and 37 were canceled. 
+3. The best months to successfully promote a Theater campaign are: May (111), June (100) and July (87). 
+4. The failed campaigns follows the trend year along, however the ratio between failedVSsuccesful is bigger on October. The recommendation could be to reschedule the events of October for another time. 
 
 ### Analysis of Outcomes Based on Goals
 
 *Technical background: For the analysis of outcomes based on Goals, the first step was to create a new sheet under the name Outcomes Based wirth 8 columns and 12 rows, aimed to populate the number of Successful, Failed and Canceled campaigns and grouped under a series of goal amount. The second step was to work on the formulas to populate each column and row as follow:
  ![Outomes_based_on_Goals_Sheet](https://github.com/chocoplace/kickstarter-analysis/blob/main/Resources/Outomes_based_on_Goals_Sheet.png)
-
-
 
 As the third step, I created a linear chart to have a visual of the Outcomes Based on Goal. 
 
@@ -38,7 +36,13 @@ As the third step, I created a linear chart to have a visual of the Outcomes Bas
 ![Outcomes_vs_Goals](https://github.com/chocoplace/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 From the information presented on the chart, we can highlight:
-From the 12 groups the client requested to group the campaigns, the highest number of campaigns are under $1,000-$4,999. 
-The highest number of Successful and Failed campaigns are placed under the range $1,000-$4,999 goal amount. 
-The three popular groups are under $10,000 this might reflect the capacity of the backers of the campings.  
-There are 14 failed campaigns with a goal Greater than $50,000 and only 2 successful campaigns. If interested, we can further the analysis on what did work and what is not working on these campaigns. 
+1. From the 12 groups the client requested to group the campaigns, the highest number of campaigns are under $1,000-$4,999. 
+2. The highest number of Successful and Failed campaigns are placed under the range $1,000-$4,999 goal amount. 
+3. The three popular groups are under $10,000 this might reflect the capacity of the backers of the campings.  
+4. There are 14 failed campaigns with a goal Greater than $50,000 and only 2 successful campaigns. If interested, we can further the analysis on what did work and what is not working on these campaigns. 
+
+### Challenges and Difficulties Encountered
+
+Among the challenges and difficulties I encountered while performing the analysis, one was during the Analysis of Outcomes Based on Launch Date, the results I got on and the ones reflected on Canvas are slightly different. 
+
+![Example_of_Challenge](https://github.com/chocoplace/kickstarter-analysis/blob/main/Resources/Example_of_Challenge.png)
