@@ -56,11 +56,6 @@ Among the challenges and difficulties I encountered while performing the analysi
 3. The best months to successfully promote a Theater campaign are: May (111), June (100) and July (87). 
 4. The failed campaigns follows the trend year along, however the ratio between failedVSsuccesful is bigger on October. The recommendation could be to reschedule the events of October for another time.
 
-- What are some other possible tables and/or graphs that we could create?
-My suggestion to have a better analys on the performance of a campaign is to add the Days where the campaign was active to add a table with Outcomes, Percentage funded, Average of Days.  
-
-End
-
 - What can you conclude about the Outcomes based on Goals?
 
 1. From the 12 groups the client requested to group the campaigns, the highest number of campaigns are under $1,000-$4,999. 
@@ -69,9 +64,14 @@ End
 4. There are 14 failed campaigns with a goal Greater than $50,000 and only 2 successful campaigns. If interested, we can further the analysis on what did work and what is not working on these campaigns
 
 - What are some limitations of this dataset?
+
 Among the limitations of this dataset we can highlight:
 1. There is no background on how our client sets the time frame to start and close a campaign limiting the understanding and the analysis of Launch date vs Outcomes.  
 2. There is no background on what determines the Outcomes results, we part from successful, failed and canceled but we don't know for sure on what is based. 
 3. Overall we are missing vital information to perform a detailed analysis requested by the client. Client wanted to know how different “Plays” campaigns fared in relation to their launch dates and their funding goals.
+
+- What are some other possible tables and/or graphs that we could create?
+
+My suggestion to have a better analys on the performance of a campaign is to add the Days where the campaign was active to add a table with Outcomes, Percentage funded, Average of Days.  
 
 End
